@@ -1,6 +1,6 @@
 {
   "name": "wimagereaderpng",
-  "version": "0.2.58",
+  "version": "0.2.60",
   "description": "___",
   "author": "Kostiantyn Wandalen <wanalen@01.school>",
   "license": "MIT",
@@ -21,11 +21,11 @@
     "url": "https://github.com/Wandalen/wImageReaderPng/issues"
   },
   "dependencies": {
-    "wTools": "alpha"
+    "wTools": ""
   },
   "devDependencies": {
     "eslint": "7.1.0",
-    "wTesting": "alpha",
+    "wTesting": "",
     "wimagereaderpng": "file:."
   },
   "keywords": [
